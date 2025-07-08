@@ -1,3 +1,2 @@
 # StudentManagementSystem
-# StudentManagementSystem
-# StudentProject
+
